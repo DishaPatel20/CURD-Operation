@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\CURD_DB\CURD_DB\bin\CURD_DB.dll
+c:\users\admin\documents\visual studio 2012\Projects\CURD_DB\CURD_DB\bin\CURD_DB.pdb
+c:\users\admin\documents\visual studio 2012\Projects\CURD_DB\CURD_DB\obj\Debug\CURD_DB.dll
+c:\users\admin\documents\visual studio 2012\Projects\CURD_DB\CURD_DB\obj\Debug\CURD_DB.pdb
+c:\users\admin\documents\visual studio 2012\Projects\CURD_DB\CURD_DB\obj\Debug\CURD_DB.csprojResolveAssemblyReference.cache
